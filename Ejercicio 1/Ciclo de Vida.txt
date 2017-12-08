@@ -1,0 +1,29 @@
+					Ciclo de Vida del Sowtware:
+El ciclo de vida del software se compone de:
+*Analisis de Requerimientos:
+	Esta parte del ciclo es importante para entender lo que el cliente necesita, se utiliza para crear un software
+	útil y eficiente.
+	Se realiza al principio porque se traba sobre estos requerimientos.
+
+*Analisis de Diseño:
+	En esta parte se realiza un diseño o una maqueta de lo que se planea realizar.
+	En esta parte se puede verificar que los requerimientos estén tomados bien y que no se encuentre algun problema o
+	ambiguedad.
+	Dependiendo de la metodología de desarrollo, se puede corregir algún error de la fase anterior inmediatamente o se debe
+	esperar hasta terminar el proceso para hacer cambios.
+
+*Desarrollo:
+	Esta es la parte de codificación, es el desarrollo del proyecto ya analizado y diseñado.
+
+*Pruebas: 
+	En esta parte se realizan diferentes tipos de pruebas al producto obtenido para ver si cumple con las necesidades
+	presentadas.
+	Se pueden realizar pruebas de caja negra, iteración, usuarios, etc.
+
+*Implementación:
+	En esta parte se entrega el software y se pone en uso.
+
+
+*Mantenimiento:
+	Esta parte es importante porque a veces lo problemas evolucionan con las soluciones y por esa razón es necesario dar
+	mantenimiento a nuestra aplicación y es posible que deba ser actualizada.

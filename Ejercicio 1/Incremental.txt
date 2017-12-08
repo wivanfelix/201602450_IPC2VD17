@@ -1,0 +1,39 @@
+					Iterativo Incremental:
+Es una metodología de desarrollo bastante tardada pero puede ser útil en un sistema o aplicaciòn de la que se cuenta poca
+claridad al principio.
+Este proceso consiste en realizar las diferentes fases del ciclo de vida del software, realizando la correspondiente y
+repitiendo las fases anteriores como en un espiral, hasta llegar a la última fase.
+Se podría ver de la siguiente manera:
+
+Iteración 1:
+*Analisis de Requerimientos.
+
+Iteración 2:
+*Analisis de Requerimientos.
+*Analisis de Diseño.
+
+Iteración 3:
+*Analisis de Requerimientos.
+*Analisis de Diseño.
+*Desarrollo.
+
+Iteración 4:
+*Analisis de Requerimientos.
+*Analisis de Diseño.
+*Desarrollo.
+*Pruebas.
+
+Iteración 5:
+*Analisis de Requerimientos.
+*Analisis de Diseño.
+*Desarrollo.
+*Pruebas.
+*Implementación.
+
+Iteración 6:
+*Analisis de Requerimientos.
+*Analisis de Diseño.
+*Desarrollo.
+*Pruebas.
+*Implementación.
+*Mantenimiento.

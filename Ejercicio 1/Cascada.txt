@@ -1,0 +1,7 @@
+				Metodología en cascada:
+La metodología de desarrollo en cascada es una de las metodoloías más utilizadas, su forma de verse es como la palabra lo
+indica, en "cascada".
+Es una metodología en la que un proceso nos lleva a otro y este a otro, hasta concluir el proceso.
+Esta metodología es ordenada y facil de visualizar y trabajar pero su desventaja es que si se encuentra algún problema 
+enraizado en alguna fase anterior, este problema no puede ser corregido hasta terminar el proceso completo, osea que 
+no se puede dar regresiones en las fases del proceso de desarrollo del software.
