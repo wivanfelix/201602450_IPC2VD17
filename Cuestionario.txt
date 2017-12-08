@@ -1,0 +1,13 @@
+					Cuestionario:
+Commit:
+Commit es el proceso de hacer un cambio en los archivos dentro del clon local del repositorio.
+
+Merge:
+Es el proceso de unificar dos ramas, para unir los archivos y los cambios realizados.
+Para realizar el merge, este debe ser aprovado y los cambios deben ser previamente verificados.
+
+Pull:
+Es el proceso de descarga de los archivos dentro del repositorio de la nube hacia el repositorio local.
+
+Push:
+Consiste en hacer una carga de los archivos contenidos en el repositorio local hacia el repositorio en la nube.
